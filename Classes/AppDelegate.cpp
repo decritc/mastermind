@@ -1,3 +1,9 @@
+/*
+ * Name        : AppDelegate.cpp
+ * Author      : Derek Critchfield
+ * Description : Mastermind AppDelegate source file
+ */
+
 #include "AppDelegate.h"
 #include "HelloWorldScene.h"
 
