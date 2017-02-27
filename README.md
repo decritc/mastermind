@@ -28,4 +28,10 @@ cocos new -l cpp -d ~/Mastermind
 Open the newly created project and replace the Classes and Resources folder with the ones 
 found here.
 
+# Known issues
+Currently 12 guess option is not implemented however difficulty rating will compute and you can start the game only it will only give you 8 guesses.
+
+
+![Screenshot 2017-02-27](/Screen Shot 2017-02-27 at 6.24.22 AM.png?raw=true "Screenshot 1")
+
 <strong>Good Luck and enjoy the game!<strong>
